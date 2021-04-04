@@ -4,6 +4,7 @@ Uses:
 - react-router-dom
 - scss/sass
 - typescript
+- Material UI
 
 # Getting Started with Create React App
 
